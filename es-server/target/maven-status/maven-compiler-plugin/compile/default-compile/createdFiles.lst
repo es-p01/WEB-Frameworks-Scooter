@@ -1,0 +1,4 @@
+app\EsServerApplication.class
+app\rest\ScooterController.class
+app\models\Scooter.class
+app\ServletInitializer.class
