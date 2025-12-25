@@ -1,0 +1,37 @@
+body{
+    font-family: "Bookman Old Style", sans-serif;
+
+}
+
+.inside-table {
+    width: 100%;
+
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #cf88ff;
+}
+
+.btn-primary {
+    background-color: #97c7ef;
+    color: #000c8b;
+    float: right;
+
+}
+
+.btn-primary:disabled{
+    background-color: rgba(151, 199, 239, 0.51);
+    color: rgba(0, 12, 139, 0.48);
+    cursor: not-allowed;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+
